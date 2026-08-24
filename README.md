@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Sphera](https://sphera.com/)**  
-
-  Enterprise sustainability, EHS, and LCA platform with deep capabilities for industrial companies, product stewardship, and supply-chain environmental impact.
-
-
-
-- **[Enablon](https://www.enablon.com/)**  
-
-  Integrated EHS, sustainability, and risk management platform used by large organizations for operational and corporate sustainability data.
-
-
-
-- **[Cority](https://www.cority.com/)**  
-
-  EHS and sustainability cloud that connects operational environmental data with corporate ESG reporting and compliance workflows.
-
-
-
-- **[FigBytes](https://figbytes.com/)**  
-
-  Sustainability and ESG management platform focused on data collection, performance tracking, and disclosure readiness.
-
-
-
-- **[IBM Envizi](https://www.ibm.com/products/envizi)**  
-
-  ESG data and analytics suite (now under IBM) strong in consolidating energy, emissions, and sustainability metrics across multi-site enterprises.
-
-
-
-- **[Intelex](https://www.intelex.com/)**  
-
-  EHS and sustainability management system supporting environmental compliance, incident management, and sustainability performance tracking.
-
-
-
-- **[Diligent ESG](https://www.diligent.com/)**  
-
-  ESG and sustainability reporting capabilities within the broader Diligent governance platform, aimed at board-level and regulatory disclosure.
-
-
-
-- **[Novisto](https://novisto.com/)**  
-
-  ESG data management and reporting platform designed to streamline collection, calculation, and disclosure across frameworks.
-
-
-
-- **[Persefoni](https://www.persefoni.com/)**  
-
-  Climate management and carbon accounting platform emphasizing financial-grade emissions data, particularly strong for financed emissions and PCAF-aligned reporting.
-
-
-
-- **[Workiva](https://www.workiva.com/)**  
-
-  Connected reporting and compliance platform widely used for ESG and sustainability disclosures alongside financial reporting.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Persefoni](https://www.persefoni.com/)** | Climate management and carbon accounting platform emphasizing financial-grade emissions data, particularly strong for financed emissions and PCAF-aligned reporting. | Free ($0) for Persefoni Pro; Advanced tier starts at ~$25,000/year | **Free Forever**: Persefoni Pro plan includes unlimited Scope 1, 2, and 3 footprint calculations, self-guided SMB disclosure, and no credit card required. |
+| **[Intelex](https://www.intelex.com/)** | EHS and sustainability management system supporting environmental compliance, incident management, and sustainability performance tracking. | Starts at $44–$49/user/month (Safety Essentials tier; minimum 25 users billed annually at ~$13,200/year) | **30-day free trial** with full platform feature access and dashboards (no credit card required; no permanent free tier). |
+| **[IBM Envizi](https://www.ibm.com/products/envizi)** | ESG data and analytics suite strong in consolidating energy, emissions, and sustainability metrics across multi-site enterprises. | Starts at $30,000/year (Essentials tier up to 1,000 Accounts via AWS Marketplace) | **14-day free trial** with full access to core dashboards, reporting modules, and Excel Emissions Calculations add-in (no permanent free tier). |
+| **[Sphera](https://sphera.com/)** | Enterprise sustainability, EHS, and LCA platform with deep capabilities for industrial companies, product stewardship, and supply-chain environmental impact. | Starts at ~$40,000/year for enterprise EHS suite (or €164–€329/user/year for BOMcheck tier) | **45-day free trial** for *Sphera LCA for Experts* (full Life Cycle Assessment modeling); enterprise EHS is demo-only (no permanent free tier). |
+| **[Diligent ESG](https://www.diligent.com/)** | ESG and sustainability reporting capabilities within the broader Diligent governance platform, aimed at board-level and regulatory disclosure. | Starts at ~$5,000/feature/year (average GRC/ESG deployment starts at ~$23,800/year) | **14-day free trial / pilot** available through sales consultation; no permanent free tier. |
+| **[Workiva](https://www.workiva.com/)** | Connected reporting and compliance platform widely used for ESG and sustainability disclosures alongside financial reporting. | Starts at ~$25,000–$40,000/year (unlimited users tier model; typical enterprise contracts ~$36,000–$60,000/year) | **Free trial only by request**: Scoped sandbox / proof-of-concept environment available following live sales consultation; no permanent free tier. |
+| **[Enablon](https://www.enablon.com/)** | Integrated EHS, sustainability, and risk management platform used by large organizations for operational and corporate sustainability data. | Starts at ~$25,000–$50,000/year (annual contract scaled by user seats and site modules) | **Free trial only by request**: 30-day scoped pilot / POC environment available upon enterprise consultation; no permanent free tier. |
+| **[Cority](https://www.cority.com/)** | EHS and sustainability cloud that connects operational environmental data with corporate ESG reporting and compliance workflows. | Starts at ~$15,000–$50,000/year (~£20,000/instance/year for specialized cloud modules) | **Free trial only by request**: Guided sandbox evaluation and demo environment available via sales consultation; no permanent free tier. |
+| **[Novisto](https://novisto.com/)** | ESG data management and reporting platform designed to streamline collection, calculation, and disclosure across frameworks. | Starts at ~CAD $40,000/year (~USD $29,500/year annual subscription) | **Free trial only by request**: Live guided evaluation session and demo environment available on request; no permanent free tier. |
+| **[FigBytes](https://figbytes.com/)** | Sustainability and ESG management platform focused on data collection, performance tracking, and disclosure readiness. | Starts at ~$20,000–$45,000/year (annual subscription based on module count and active entities) | **Free trial only by request**: Tailored scoping evaluation session and interactive demo available on request; no permanent free tier. |
 
 
 
