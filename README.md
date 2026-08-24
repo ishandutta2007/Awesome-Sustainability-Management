@@ -73,7 +73,7 @@ The table below lists industry-leading commercial sustainability management and 
 
 Curated collection of open-source sustainability frameworks, carbon emission calculation libraries, grid carbon APIs, and climate data tools — sorted by **GitHub Stars** (descending).
 
-| 📦 Project & Repository | 🌟 Stars | 📖 Description | 🛠️ Tech Stack / Domain |
+| 📦 Project & Repository | 🌟 Github_Stars | 📖 Description | 🛠️ Tech Stack / Domain |
 | :--- | :--- | :--- | :--- |
 | **[Electricity Maps](https://github.com/electricitymaps/electricitymaps-contrib)** | [![GitHub stars](https://img.shields.io/github/stars/electricitymaps/electricitymaps-contrib?style=social&color=white)](https://github.com/electricitymaps/electricitymaps-contrib/stargazers) | Real-time 24/7 visualization and data pipeline for electricity CO₂ intensity and origin across global grids. | Python, TypeScript, Geodata |
 | **[Scaphandre](https://github.com/hubblo-org/scaphandre)** | [![GitHub stars](https://img.shields.io/github/stars/hubblo-org/scaphandre?style=social&color=white)](https://github.com/hubblo-org/scaphandre/stargazers) | Electrical power consumption and energy metric agent for bare-metal, virtual machines, Kubernetes, and cloud servers. | Rust, Prometheus, Metrics |
